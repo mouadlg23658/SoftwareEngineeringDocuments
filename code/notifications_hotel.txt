@@ -1,0 +1,3 @@
+HOTEL : Réservation Dubai confirmée : Chambre simple Dubai du 2026-05-06 au 2026-05-08
+HOTEL : Nouvelle réservation : Chambre simple Dubai à Dubai du 2026-06-16 au 2026-06-30
+HOTEL : Nouvelle réservation : Chambre normale à Montreal du 2026-05-08 au 2026-05-09
